@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2012 The CyanogenMod Project
+     Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1753,18 +1754,18 @@
     <string name="system_update_settings_list_item_summary">""</string>
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Donate</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">CyanogenMod Statistics</string>
-    <string name="anonymous_statistics_summary">Help make CyanogenMod better by opting into anonymous statistics reporting</string>
+    <string name="anonymous_statistics_title">LineageOS Statistics</string>
+    <string name="anonymous_statistics_summary">Help make LineageOS better by opting into anonymous statistics reporting</string>
     <string name="anonymous_statistics_warning_title">About</string>
-    <string name="anonymous_statistics_warning">Opting into CyanogenMod Statistics will allow non-personal data to be submitted to the
-        developers of CyanogenMod to track unique installations across devices. The information submitted includes an unique identifier,
+    <string name="anonymous_statistics_warning">Opting into LineageOS Statistics will allow non-personal data to be submitted to the
+        developers of LineageOS to track unique installations across devices. The information submitted includes an unique identifier,
         which does not compromise your privacy or personal data. The data is submitted during each boot.\n\nFor an example of the data that is submitted, tap on Preview Data.</string>
     <string name="enable_reporting_title">Enable reporting</string>
     <string name="preview_data_title">Preview data</string>
@@ -1773,7 +1774,7 @@
     <string name="anonymous_learn_more">Learn more</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Enable or Disable CyanogenMod Statistics</string>
+    <string name="anonymous_notification_desc">Enable or Disable LineageOS Statistics</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">Unique ID</string>
@@ -1814,7 +1815,7 @@
     <!-- About device screen, version of kernel. -->
     <string name="kernel_version">Kernel version</string>
     <!-- About device screen, version of modification of Android. -->
-    <string name="mod_version">CyanogenMod version</string>
+    <string name="mod_version">LineageOS version</string>
     <string name="mod_version_default">Unknown</string>
     <!-- About device screen, build number. -->
     <string name="build_number">Build number</string>
@@ -4516,6 +4517,6 @@ found in the list of installed apps.</string>
     <string name="increasing_ring_interval_10seconds">10 seconds</string>
 
     <!-- CM Updater -->
-    <string name="cmupdate_settings_title">CyanogenMod updates</string>
+    <string name="cmupdate_settings_title">LineageOS updates</string>
     <string name="cmupdate_settings_summary">Check for, view or install available updates</string>
 </resources>

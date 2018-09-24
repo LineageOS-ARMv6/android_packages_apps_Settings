@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1616,9 +1617,9 @@
     <string name="additional_options_title">אפשרויות נוספות</string>
     <string name="advanced_settings_title">מתקדם</string>
     <string name="anonymous_learn_more">למד עוד</string>
-    <string name="anonymous_notification_desc">"אפשר או בטל סטטיסטיקות CyanogenMod"</string>
-    <string name="anonymous_statistics_summary">עזור לשפר את CyanogenMod על ידי שליחת סטטיסטיקות שימוש אנונימיות"</string>
-    <string name="anonymous_statistics_title">"סטטיסטיקות CyanogenMod"</string>
+    <string name="anonymous_notification_desc">"אפשר או בטל סטטיסטיקות LineageOS"</string>
+    <string name="anonymous_statistics_summary">עזור לשפר את LineageOS על ידי שליחת סטטיסטיקות שימוש אנונימיות"</string>
+    <string name="anonymous_statistics_title">"סטטיסטיקות LineageOS"</string>
     <string name="anonymous_statistics_warning">"אם אתה מאפשר את הסטטיסטיקות ישלחו נתוני שימוש אנונימיים אל
         היוצרים של המוד כדי לחפש שימושים ייחודיים על פני מכשירים.. המידע שנשלח כולל אלמנט מייחד,
         שלא מסכן את הפרטיות או את המידע האישי שלך. המידע נשלח כל תחילת הפעלה של המערכת.\n\nכדי לראות דוגמא של המידע שנשלח, לחץ על הצגת הנתונים."</string>
@@ -1741,7 +1742,7 @@
     <string name="memory_management_title">ניהול זכרון</string>
     <string name="menu_new_profile">פרופיל חדש</string>
     <string name="menu_new_profile_summary">הוסף והגדר פרופיל חדש</string>
-    <string name="mod_version">"גרסת CyanogenMod"</string>
+    <string name="mod_version">"גרסת LineageOS"</string>
     <string name="mod_version_default">"לא ידוע"</string>
     <string name="new_profile_name">"&lt;פרופיל חדש&gt;"</string>
     <string name="notification_drawer_title">מגירת ההתראות</string>

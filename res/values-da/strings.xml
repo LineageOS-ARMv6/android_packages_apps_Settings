@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1950,18 +1951,18 @@
     <string name="pref_use_16bpp_alpha_summary">Bedre grafisk ydeevne, men ringere kvalitet og kan forårsage visuelle artefakter (kræver genstart)</string>
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Donér</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">CyanogenMod-statistik</string>
-    <string name="anonymous_statistics_summary">Hjælp med at gøre CyanogenMod bedre ved at tilmelde dig statistisk indrapportering</string>
+    <string name="anonymous_statistics_title">LineageOS-statistik</string>
+    <string name="anonymous_statistics_summary">Hjælp med at gøre LineageOS bedre ved at tilmelde dig statistisk indrapportering</string>
     <string name="anonymous_statistics_warning_title">Om</string>
-    <string name="anonymous_statistics_warning">Tilmelding til CyanogenMod-statistik vil tillade ikke-personlige data at blive sendt til 
-	    udviklerne af CyanogenMod for at spore unikke installationer på tværs af enheder. De indsendte oplysninger omfatter en unik identifikator, 
+    <string name="anonymous_statistics_warning">Tilmelding til LineageOS-statistik vil tillade ikke-personlige data at blive sendt til 
+	    udviklerne af LineageOS for at spore unikke installationer på tværs af enheder. De indsendte oplysninger omfatter en unik identifikator, 
 		som ikke kompromitterer dit privatliv eller personlige data. Dataene indsendes under hver opstart.\n\nFor et eksempel på de data, der er indsendt, skal du trykke på Forhåndsvisning af data.</string>
     <string name="enable_reporting_title">Slå indrapportering til</string>
     <string name="preview_data_title">Forhåndsvisning af data</string>
@@ -1970,7 +1971,7 @@
     <string name="anonymous_learn_more">Lær mere</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Slå CyanogenMod-statistik til eller fra</string>
+    <string name="anonymous_notification_desc">Slå LineageOS-statistik til eller fra</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">Unikt ID</string>

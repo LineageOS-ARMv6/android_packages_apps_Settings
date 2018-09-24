@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1640,7 +1641,7 @@
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"További rendszerfrissítések"</string>
 
     <!-- 20120420 -->
-    <string name="anonymous_notification_desc">CyanogenMod Statisztika engedélyezése/tiltása</string>
+    <string name="anonymous_notification_desc">LineageOS Statisztika engedélyezése/tiltása</string>
     <string name="custom_time">Egyéni</string>
     <string name="debug_intent_sender_label">Hibakeresés küldése</string>
     <string name="default_time">Normál</string>
@@ -2188,16 +2189,16 @@
     <string name="pref_purgeable_assets_summary">Szükség esetén több RAM felszabadítását engedélyezi (újraindítás szükséges)</string>
     <!-- System Updates #CM -->
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Támogatás</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">CyanogenMod Statisztika</string>
-    <string name="anonymous_statistics_summary">Az anonim statisztika gyűjtévésével javítani tudjuk a CyanogenMod rendszert</string>
+    <string name="anonymous_statistics_title">LineageOS Statisztika</string>
+    <string name="anonymous_statistics_summary">Az anonim statisztika gyűjtévésével javítani tudjuk a LineageOS rendszert</string>
     <string name="anonymous_statistics_warning_title">Tudnivalók</string>
-    <string name="anonymous_statistics_warning">A CyanogenMod statisztika engedélyezése nem terjed ki személyes adatokra, ezért egy egyedi azonosítóval azonosítjuk az eszközöket. Az adat minden telefon indulás után kerül elküldésre, hogy követni tudjuk az új installokat.\n\nAz elküldött adatok menüpont alatt láthatod a statisztikai adatokat.</string>
+    <string name="anonymous_statistics_warning">A LineageOS statisztika engedélyezése nem terjed ki személyes adatokra, ezért egy egyedi azonosítóval azonosítjuk az eszközöket. Az adat minden telefon indulás után kerül elküldésre, hogy követni tudjuk az új installokat.\n\nAz elküldött adatok menüpont alatt láthatod a statisztikai adatokat.</string>
     <string name="enable_reporting_title">Statisztika engedélyezése</string>
     <string name="preview_data_title">Elküldött adatok</string>
     <string name="preview_data_summary">%s</string>
@@ -2218,7 +2219,7 @@
     <!-- About phone screen, Free memory info -->
     <string name="mem_info">Memória</string>
     <!-- About device screen, version of modification of Android. -->
-    <string name="mod_version">CyanogenMod verzió</string>
+    <string name="mod_version">LineageOS verzió</string>
     <string name="mod_version_default">Unknown</string>
     <!-- About device screen, build date of ROM. -->
     <string name="build_date">Build dátuma</string>

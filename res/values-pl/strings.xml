@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
       Copyright (C) 2012 The CyanogenMod Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1583,7 +1584,7 @@
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Dodatkowe aktualizacje systemu"</string>
 
-    <!-- **** CYANOGENMOD EDITS START **** -->
+    <!-- **** LineageOS EDITS START **** -->
     <!-- Backlight #CM -->
     <string name="backlight_title">Jasność automatyczna</string>
     <string name="backlight_summary">Dostosuj poziomy i filtrowanie</string>
@@ -1883,18 +1884,18 @@
     <string name="pref_use_16bpp_alpha_summary">Poprawia wydajność kosztem jakości obrazów. Może powodować artefakty (wymaga restartu)</string>
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Wspomóż</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">Statystyki CyanogenMod</string>
+    <string name="anonymous_statistics_title">Statystyki LineageOS</string>
     <!-- About device screen, list item summary. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_summary">Pomóż sprawić, by CyanogenMod stał się lepszy, wysyłając anonimowe statystyki</string>
+    <string name="anonymous_statistics_summary">Pomóż sprawić, by LineageOS stał się lepszy, wysyłając anonimowe statystyki</string>
     <string name="anonymous_statistics_warning_title">O statystykach</string>
-    <string name="anonymous_statistics_warning">Zezwolenie na anonimowe satystyki pozwala śledzić twórcom CyanogenMod ilość jego instalacji.
+    <string name="anonymous_statistics_warning">Zezwolenie na anonimowe satystyki pozwala śledzić twórcom LineageOS ilość jego instalacji.
         Przesyłane informacje zawierają unikatowy identyfikator urządzenia,
         co nie narusza twojej prywatności ani danych. Informacje są przesyłane podczas każdego uruchamiania systemu.\n\nMożesz sprawdzić, jakie informacje są przysałne, używając opcji Podgląd danych.</string>
     <string name="enable_reporting_title">Włącz raportowanie</string>
@@ -1904,7 +1905,7 @@
     <string name="anonymous_learn_more">Dowiedz się więcej</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Włącz/Wyłącz statystyki CyanogenMod</string>
+    <string name="anonymous_notification_desc">Włącz/Wyłącz statystyki LineageOS</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">ID urządzenia</string>
@@ -1925,7 +1926,7 @@
     <string name="kill_app_longpress_back_summary">Zabij aplikację przytrzymując przycisk wstecz</string>
 
     <!-- About device screen, version of modification of Android. #CM -->
-    <string name="mod_version">Wersja CyanogenMod</string>
+    <string name="mod_version">Wersja LineageOS</string>
     <string name="mod_version_default">Nieznana</string>
     <string name="cpu_info">Procesor</string>
     <string name="mem_info">Pamięć RAM</string>
@@ -2277,5 +2278,5 @@
     <string name="increasing_ring_interval_5seconds">5 sekund</string>
     <string name="increasing_ring_interval_10seconds">10 sekund</string>
 
-    <!-- **** CYANOGENMOD EDITS END **** -->
+    <!-- **** LineageOS EDITS END **** -->
 </resources>

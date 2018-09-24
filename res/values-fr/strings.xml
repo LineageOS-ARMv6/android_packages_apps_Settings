@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1190,24 +1191,24 @@
     <string name="cpu_set_on_boot_summary">Modifie les fréquences du CPU au démarrage du système</string>
 
     <!-- About phone -->
-    <string name="mod_version">Version CyanogenMod</string>
+    <string name="mod_version">Version LineageOS</string>
     <string name="mod_version_default">Inconnue</string>
     <string name="build_date">Date de compilation</string>
     <string name="mem_info">Mémoire</string>
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Donation</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">Statistiques CyanogenMod</string>
-    <string name="anonymous_statistics_summary">Aidez CyanogenMod en participant à l\'envoi de données anonymes pour comptabiliser les installations par type d\'appareil</string>
+    <string name="anonymous_statistics_title">Statistiques LineageOS</string>
+    <string name="anonymous_statistics_summary">Aidez LineageOS en participant à l\'envoi de données anonymes pour comptabiliser les installations par type d\'appareil</string>
     <string name="anonymous_statistics_warning_title">A propos</string>
-    <string name="anonymous_statistics_warning">Autoriser les statistiques CyanogenMod permet l\'envoi de données anonymes aux développeurs
-    du système CyanogenMod pour comptabiliser le nombre d\'installations par type d\'appareil. Les informations envoyées contiennent un identifiant unique de appareil
+    <string name="anonymous_statistics_warning">Autoriser les statistiques LineageOS permet l\'envoi de données anonymes aux développeurs
+    du système LineageOS pour comptabiliser le nombre d\'installations par type d\'appareil. Les informations envoyées contiennent un identifiant unique de appareil
     afin de limiter les doublons et en aucune manière ne compromet la sécurité de vos données. Ce jeu d\'informations est envoyé à chaque redémarrage pour ne conserver que les installations actives.
     \n\nVous pouvez visualiser ces données en sélectionnant \"Prévisualiser les données\".</string>
     <string name="enable_reporting_title">Activer le reporting</string>
@@ -1217,7 +1218,7 @@
     <string name="anonymous_learn_more">En savoir plus</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Activer ou non les statistiques CyanogenMod</string>
+    <string name="anonymous_notification_desc">Activer ou non les statistiques LineageOS</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">Identifiant unique</string>
@@ -1249,7 +1250,7 @@
     <string name="safe_headset_restore_title">Sécurité volume écouteurs</string>
     <string name="safe_headset_restore_summary">Prévient d\'un volume trop élevé au branchement des écouteurs</string>
 
-<!-- End of CyanogenMod specific settings -->
+<!-- End of LineageOS specific settings -->
 
     <string name="sim_lock_settings" msgid="3392331196873564292">"Paramètres verrouillage SIM"</string>
     <string name="sim_lock_settings_category" msgid="5136244267576697004">"Configurer verrouillage carte SIM"</string>

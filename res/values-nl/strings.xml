@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2007 The Android Open Source Project
      Copyright (C) 2012 The CyanogenMod Project
+     Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1670,7 +1671,7 @@
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Aanvullende systeemupdates"</string>
 
-    <!-- CYANOGENMOD EDITS -->
+    <!-- LineageOS EDITS -->
 
     <string name="ok">OK</string>
     <!-- Interface settings -->
@@ -1986,17 +1987,17 @@
     <!-- Donating settings -->
     <string name="donate_settings_title">Doneren</string>
 
-    <!-- Settings - CyanogenMod statistics settings -->
-    <string name="anonymous_statistics_title">CyanogenMod-statistieken</string>
-    <string name="anonymous_statistics_summary">Help mee met het verbeteren van CyanogenMod door anonieme statistieken te verzenden</string>
+    <!-- Settings - LineageOS statistics settings -->
+    <string name="anonymous_statistics_title">LineageOS-statistieken</string>
+    <string name="anonymous_statistics_summary">Help mee met het verbeteren van LineageOS door anonieme statistieken te verzenden</string>
     <string name="anonymous_statistics_warning_title">Over</string>
-    <string name="anonymous_statistics_warning">CyanogenMod-statistieken verzenden toestaat zal anonieme gegevens naar de ontwikkelaars van CyanogenMod sturen om unieke installaties op alle apparaten te volgen. In de gegevens zit een uniek ID-nummer, die uw privacy niet zal schenden. De gegevens worden tijdens het opstarten verstuurd. Voor een voorbeeld van de te verzenden gegevens, tik op \'Toon voorbeeld van gegevens\'.</string>
+    <string name="anonymous_statistics_warning">LineageOS-statistieken verzenden toestaat zal anonieme gegevens naar de ontwikkelaars van LineageOS sturen om unieke installaties op alle apparaten te volgen. In de gegevens zit een uniek ID-nummer, die uw privacy niet zal schenden. De gegevens worden tijdens het opstarten verstuurd. Voor een voorbeeld van de te verzenden gegevens, tik op \'Toon voorbeeld van gegevens\'.</string>
     <string name="enable_reporting_title">Schakel rapportering in</string>
     <string name="preview_data_title">Toon voorbeeld van gegevens</string>
     <string name="preview_data_summary">%s</string>
     <string name="view_stats_title">Toon statistieken</string>
     <string name="anonymous_learn_more">Lees meer</string>
-    <string name="anonymous_notification_desc">Schakel CyanogenMod-statistieken in/uit</string>
+    <string name="anonymous_notification_desc">Schakel LineageOS-statistieken in/uit</string>
     <string name="preview_id_title">Uniek ID</string>
     <string name="preview_device_title">Apparaat</string>
     <string name="preview_version_title">Versie</string>
@@ -2029,7 +2030,7 @@
     <string name="storage_switch_unavailable">Dit apparaat heeft geen uitgebreid intern geheugen</string>
 
     <!-- About settings (additions) -->
-    <string name="mod_version">CyanogenMod-versie</string>
+    <string name="mod_version">LineageOS-versie</string>
     <string name="mod_version_default">Onbekend</string>
     <string name="build_date">Builddatum</string>
     <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Systeemupdates"</string>

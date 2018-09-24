@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1922,7 +1923,7 @@
     <!-- About device screen, version of kernel. -->
     <string name="kernel_version" msgid="9192574954196167602">"Versão do kernel"</string>
     <!-- About device screen, version of modification of Android. -->
-    <string name="mod_version">Versão CyanogenMod</string>
+    <string name="mod_version">Versão LineageOS</string>
     <string name="mod_version_default">Desconhecida</string>
     <!-- About device screen, build number. -->
     <string name="build_number" msgid="3075795840572241758">"Compilação"</string>
@@ -1933,18 +1934,18 @@
     <string name="device_info_not_available" msgid="8062521887156825182">"Não disponível"</string>
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">Doar</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">Estatísticas CyanogenMod</string>
-    <string name="anonymous_statistics_summary">Ajude a melhorar o CyanogenMod optando por enviar estatísticas anónimas</string>
+    <string name="anonymous_statistics_title">Estatísticas LineageOS</string>
+    <string name="anonymous_statistics_summary">Ajude a melhorar o LineageOS optando por enviar estatísticas anónimas</string>
     <string name="anonymous_statistics_warning_title">Sobre</string>
-    <string name="anonymous_statistics_warning">Optar por enviar estatísticas anonimas do CyanogenMod permitirá que dados não-pessoais sejam enviados para os
-        desenvolvedores do CyanogenMod para contar instalações únicas em dispositivos. As informações enviadas incluem um identificador único,
+    <string name="anonymous_statistics_warning">Optar por enviar estatísticas anonimas do LineageOS permitirá que dados não-pessoais sejam enviados para os
+        desenvolvedores do LineageOS para contar instalações únicas em dispositivos. As informações enviadas incluem um identificador único,
         que não compromete sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara um exemplo de dados que são enviados, toque em Pré-visualizar Dados.</string>
     <string name="enable_reporting_title">Activar relatório</string>
     <string name="preview_data_title">Pré-visualizar dados</string>
@@ -1953,7 +1954,7 @@
     <string name="anonymous_learn_more">Saiba mais</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Activar ou desactivar estatísticas CyanogenMod</string>
+    <string name="anonymous_notification_desc">Activar ou desactivar estatísticas LineageOS</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">ID unico</string>

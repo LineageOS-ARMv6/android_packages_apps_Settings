@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
+      Copyright (C) 2018 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -1656,7 +1657,7 @@
     <string name="display_category_animation_options_title">Animación</string>
     <string name="display_electron_beam_animation_on_title">Animación al encender</string>
     <string name="display_electron_beam_animation_off_title">Animación al apagar</string>
-<!-- CyanogenMod additional translations -->
+<!-- LineageOS additional translations -->
 
     <!-- Temporary - stubed preference - to be removed once all preferences have been merged #CM -->
     <string name="stubbed">"Preferencias"</string>
@@ -2162,24 +2163,24 @@
     <!-- System Updates #CM -->
 
     <!-- Donate #CM -->
-    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item title. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_title">"Donar"</string>
-    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the CyanogenMod Project. -->
+    <!-- About device screen, list item summary. Takes the user to the screen about how to donate to the LineageOS Project. -->
     <string name="donate_settings_summary">""</string>
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">"Estadísticas CyanogenMod"</string>
+    <string name="anonymous_statistics_title">"Estadísticas LineageOS"</string>
     <!-- About device screen, list item summary. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_summary">"Ayude a mejorar CyanogenMod mediante el envío anónimo de estadísticas"</string>
+    <string name="anonymous_statistics_summary">"Ayude a mejorar LineageOS mediante el envío anónimo de estadísticas"</string>
     <string name="anonymous_statistics_warning_title">"Aviso"</string>
-    <string name="anonymous_statistics_warning">"Permitiendo la recopilación y envio de estadísticas de CyanogenMod autoriza el envio de información de carácter no personal a los desarrolladores de CyanogenMod para realizar un seguimiento de las instalaciones que realice en los dispositivos. La información enviada incluye un identificador único que no compromete su privacidad o su información personal. Esta información es enviada durante el arranque.\n\nPara ver un ejemplo de la información enviada, acceda al menú 'Previsualizar Datos' en ."</string>
+    <string name="anonymous_statistics_warning">"Permitiendo la recopilación y envio de estadísticas de LineageOS autoriza el envio de información de carácter no personal a los desarrolladores de LineageOS para realizar un seguimiento de las instalaciones que realice en los dispositivos. La información enviada incluye un identificador único que no compromete su privacidad o su información personal. Esta información es enviada durante el arranque.\n\nPara ver un ejemplo de la información enviada, acceda al menú 'Previsualizar Datos' en ."</string>
     <string name="enable_reporting_title">"Activar envío estadísticas"</string>
     <string name="preview_data_title">"Previsualizar datos"</string>
     <string name="view_stats_title">"Ver estadísticas"</string>
     <string name="anonymous_learn_more">"Leer más"</string>
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">"Activar ó desactivar estadísticas de CyanogenMod"</string>
+    <string name="anonymous_notification_desc">"Activar ó desactivar estadísticas de LineageOS"</string>
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">"Identificador único"</string>
     <string name="preview_device_title">"Dispositivo"</string>
@@ -2190,7 +2191,7 @@
     <!-- About phone screen, Free memory info #CM -->
     <string name="mem_info">"Memoria"</string>
     <!-- About device screen, version of modification of Android. #CM -->
-    <string name="mod_version">"Versión CyanogenMod"</string>
+    <string name="mod_version">"Versión LineageOS"</string>
     <string name="mod_version_default">"Desconocida"</string>
     <!-- About device screen, build date of ROM. #CM -->
     <string name="build_date">"Fecha de compilación"</string>
